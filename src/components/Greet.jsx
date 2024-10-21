@@ -3,5 +3,5 @@ import React from "react"
 //     return <h1>Hello React</h1>
     
 // }
-export const Greet= () => <h1>Hello React..!</h1>
+export const Greet= () => <h1>Functional Component</h1>
 // export default Greet
